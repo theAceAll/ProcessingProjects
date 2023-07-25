@@ -1,6 +1,5 @@
-int age=34;
 PImage img;
-// 7/24/2023
+// On: 7/24/2023
  
 void setup(){
   size(1080,1080);
